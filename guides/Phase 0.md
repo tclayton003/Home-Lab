@@ -27,7 +27,7 @@
 	```
 - Restart SSH (try to connect in another terminal before ending session):
 	```
-	sudo systemctl restart SSH
+	sudo systemctl restart ssh
 	```
 
 ### Basic Configuration
@@ -62,7 +62,7 @@
 	```
 	sudo ufw allow ssh
 	sudo ufw enable
-	sufo ufw status verbose
+	sudo ufw status verbose
 	```
 - Check system status:
 	```
