@@ -4,6 +4,6 @@ In this repo, I'll be recording my home lab journey. You can expect to find thin
 
 - Setup guides
 - Configuration templates
-- Network diagrams
+- Concept diagrams
 
 Stay tuned for more updates!
