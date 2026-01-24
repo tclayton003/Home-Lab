@@ -1,5 +1,7 @@
 # Welcome to my home lab repository!
 
+*Note: this project is currently on hold in favor of others!*
+
 In this repo, I'll be recording my home lab journey. You can expect to find things like:
 
 - Setup guides
